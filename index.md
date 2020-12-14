@@ -1,5 +1,7 @@
 ![プロフィール写真](IMG_0239.jpeg)
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/HSDev01?ref_src=twsrc%5Etfw">Tweets by HSDev01</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 しばらくプログラミングを離れていた遅咲きのルーキー。
 Weｂプラグラミングのリハビリをして再び戻ってきました。
