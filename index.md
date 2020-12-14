@@ -1,4 +1,5 @@
-![プロフィール写真](IMG_0239.jpeg)
+
+<img src="IMG_0239.jpeg" width="400" height="300>
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/HSDev01?ref_src=twsrc%5Etfw">Tweets by HSDev01</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
